@@ -1,4 +1,4 @@
-#!/buildbot/tmp/buildhost/darwin-x86_64/install/host-tools/bin/python2.7
+#!/Volumes/Android/buildbot/src/android/ndk-release-r19/out/darwin/python/darwin-x86_64/install/host-tools/bin/python2.7
 """An RFC 2821 smtp proxy.
 
 Usage: %(program)s [options] [localhost:localport [remotehost:remoteport]]
